@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>File upload form</title>
+</head>
+<body>
+	<form name = "fileUpload" method="POST" enctype = "multipart/form-data" action="file-upload.php">
+		Username: <input type="text" name="txtuUsername" /></br></br>
+		Photo:<input type="file" name="filePhoto" /></br></br>
+
+		<input type="submit" name = "btnSubmit" value= "submit" />
+	</form>
+
+
+</body>
+</html>

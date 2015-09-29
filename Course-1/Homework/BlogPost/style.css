@@ -1,0 +1,56 @@
+body{background-color: #F1F1E6; margin:0; padding:0;}
+.bigContainer{margin: 0; padding: 67px 0 65px 0;}
+
+.sectiuneaTitlu { text-align: center; background: #fff; margin:-46px 89.5px; padding: 12px 20px 16px 20px; }
+.sectiuneaTitlu h1 {margin: 0 0 2px 0; padding: 0; line-height: 40px; color: #d2c970; font-size: 2em; font-weight: 100;}
+.sectiuneaTitlu ul { list-style: none; margin:0px; padding:0px;}
+.sectiuneaTitlu ul li {font-size: 18px; display: inline-block; padding: 0 5px;}
+.sectiuneaTitlu ul li a { text-decoration: none; color: #b2ad9d; }
+.sectiuneaTitlu ul li a:hover {color:#584A3E;}
+.sectiuneaTitlu ul li .blog { color: #584a3e; }
+
+.left {float:left;}
+.right {float:right;}
+.clear {clear:both;}
+
+.sectiunea1 {margin: 10px 89.5px;}
+.sectiunea1 .left { padding-top: 40px; max-width: 69%;}
+.sectiunea1 .left .postOne h2 {font-size: 45px; font-weight: 100; margin: 12px 0 30px; font-family: "Arial", Times, serif;}
+.sectiunea1 .left .postOne h2 a {text-decoration:none; color: #584a3e; }
+.sectiunea1 .left .postOne h2 a:hover {color:#9FCB00;}
+.sectiunea1 .left .postOne img { max-width: 100%; height: auto;}
+.sectiunea1 .left .postOne .info {margin-bottom: 1.5em; line-height: 24px;}
+.info h3 {font:normal 25px serif; color: #a19677; margin: 25px 0 15px 0; line-height: 24px; font-weight:100;  font-style: italic;}
+.info {font: normal 18px serif; color: #616156; }
+.info p {margin-bottom: 2em;}
+.info .button {text-decoration: none; padding: 12px 22px; background: #6b5f53; color: #fffffe; font-size:15px; line-height: 20px;}
+.info .button:hover {background:#fffffe; color:#6b5f53;}
+
+
+
+.sectiunea1 .right {max-width: 28%; margin-left:30px; padding-top:40px;}
+.sectiunea1 .right img {max-width: 100%; height: auto;}
+.right h3 {font-size:45px; color: #584a3e; margin: 12px 0 28px; font-weight:normal;}
+.right ul {font-size:18px; color: #616156; padding:0; position:relative;}
+.right ul li { line-height: 24px; list-style:none; margin-top: 16px; }
+.right ul li:before {position: absolute; content: ""; background:url("imagini/checkbox.jpg") 0 0 no-repeat; width:25px; height:25px;}
+.right ul li a {font:normal 18px serif; color: #616156; text-decoration:none; margin-left:30px;} 
+.right ul li a:hover { color: #9fcb00;}
+
+.right .recent {margin-top:60px; width: 400px;}
+.right .recent h4 {  margin: 0 0 19px 0; padding: 0; line-height: 24px; font-weight:normal; }
+.right .recent h4 a {font-size:28px; color: #a19677; text-decoration:none;}
+.right .recent h4 a:hover {color:#9FCB00;}
+.right .recent .newPost {clear:both;}
+.right .recent .newPost.two {margin-top: 60px;}
+.right .recent .newPost .postImg { float: left; margin-right:30px;}
+.right .recent .newPost time {line-height: 26px; font-size: 16px; color: #9fcb00;}
+
+.footer {clear:both; background:#ffffff; width:100%;}
+.footer ul {padding: 30px; margin: 0 89.5px; }
+.footer ul .item1, .footer ul .item2, .footer ul .item3 { display: inline-block; }
+.footer ul li {list-style: none; display: inline-block;}
+.footer ul li li  {margin:0 3px;}
+.footer ul li a {text-decoration: none; color: #736960; line-height:18px; font:normal 18px serif; font-weight: 300; }
+.footer ul li a:hover {color: #9fcb00;}
+
